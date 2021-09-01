@@ -75,16 +75,12 @@ input, select, textarea {
     #aa-container {
         display: flex;
         align-items: center;
-        margin-bottom: 3vh;
+        margin-bottom: 5vh;
     }   
 
     #aa {
         height: 7vh;
         width: 15vw;
-    }
-
-    #aa-text {
-        padding-left: 2vw;
     }
 
     #du-container {
@@ -93,12 +89,8 @@ input, select, textarea {
     }
 
     #du {
-        height: 8vh;
+        height: 9vh;
         width: 15vw;
-    }
-
-    #du-text {
-        padding-left: 2vw;
     }
 
 /* Basic */
