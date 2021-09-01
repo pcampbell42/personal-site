@@ -84,6 +84,11 @@ input, select, textarea {
         width: 15vw;
     }
 
+    #aa-spacer {
+        height: 0;
+        width: 2vw;
+    }
+
     #du-container {
         display: flex;
         align-items: center;
