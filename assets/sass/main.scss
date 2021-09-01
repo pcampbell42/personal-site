@@ -1140,7 +1140,7 @@
 
 		.actions {
 			@include vendor('justify-content', 'center');
-			margin-top: (_size(element-margin) * 1.25);
+			// margin-top: (_size(element-margin) * 1.25);
 			margin-left: 0;
 			position: relative;
 
