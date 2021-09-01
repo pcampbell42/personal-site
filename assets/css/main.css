@@ -116,7 +116,7 @@ input, select, textarea {
         margin-top: 3vh;
     }
 
-    #dbw {
+    /* #dbw {
         height: 33vh;
         width: 22vw;
     }
@@ -126,16 +126,33 @@ input, select, textarea {
         width: 22vw;
     }
 
+    #sprout {
+        height: 33vh;
+        width: 22vw;
+    } */
+
+    .dbw-image {
+        height: 33vh;
+        width: 22vw;
+        margin-bottom: 4vh;
+        background-image: url("images/discord_but_worse.png");
+        background-size: cover;   
+    }
+
     .ta-image {
         height: 33vh;
         width: 22vw;
+        margin-bottom: 4vh;
         background-image: url("images/the_arena.png");
         background-size: cover;
     }
 
-    #sprout {
+    .sprout-image {
         height: 33vh;
         width: 22vw;
+        margin-bottom: 4vh;
+        background-image: url("images/sprout.png");
+        background-size: cover;
     }
 
 /* Basic */
