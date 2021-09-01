@@ -127,6 +127,8 @@ input, select, textarea {
     }
 
     #ta-image {
+        height: 33vh;
+        width: 22vw;
         background-image: url("images/the_arena.png");
         background-size: cover;
     }
