@@ -72,6 +72,11 @@ input, select, textarea {
 	appearance: none;
 }
 
+
+    #three {
+        background-color: #025e50;
+    }
+
 /* Basic */
 
 	html {
