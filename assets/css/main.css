@@ -3163,7 +3163,7 @@ input, select, textarea {
 		text-align: center;
         background-image: url('images/river_cropped.jpeg');
         background-size: cover;
-        /* background-position: bottom 0 right 100px; */
+        background-position: bottom;
 	}
 
 		#footer a {
