@@ -83,6 +83,10 @@ input, select, textarea {
         width: 15vw;
     }
 
+    #aa-text {
+        padding-left: 2vw;
+    }
+
     #du-container {
         display: flex;
         align-items: center;
@@ -91,6 +95,10 @@ input, select, textarea {
     #du {
         height: 8vh;
         width: 15vw;
+    }
+
+    #du-text {
+        padding-left: 2vw;
     }
 
 /* Basic */
