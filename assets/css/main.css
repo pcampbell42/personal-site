@@ -73,12 +73,13 @@ input, select, textarea {
 }
 
     #aa {
-        height: 5vh;
+        height: 7vh;
         width: 15vw;
+        margin-bottom: 5vh;
     }
 
     #du {
-        height: 5vh;
+        height: 7vh;
         width: 15vw;
     }
 
