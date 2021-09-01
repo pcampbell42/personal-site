@@ -80,7 +80,6 @@ input, select, textarea {
     #aa {
         height: 7vh;
         width: 15vw;
-        margin-bottom: 5vh;
     }
 
     #du-container {
@@ -89,7 +88,7 @@ input, select, textarea {
     }
 
     #du {
-        height: 7vh;
+        height: 8vh;
         width: 15vw;
     }
 
