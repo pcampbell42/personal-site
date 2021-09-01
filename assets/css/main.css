@@ -3161,7 +3161,7 @@ input, select, textarea {
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover; */
 		text-align: center;
-        background-image: url('images/river.jpeg');
+        background-image: url('images/river-small.png');
         background-size: cover;
         background-position: bottom 0 right 100px;
 	}
