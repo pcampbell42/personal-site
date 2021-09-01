@@ -127,6 +127,10 @@
         width: 1vw;
     }
 
+    #four {
+        background-color: white;
+    }
+
 /* Basic */
 
 	// Set box model to border-box.
@@ -1253,7 +1257,7 @@
 		// background-image:		url('images/overlay2.png'),		url('images/overlay4.svg'),		linear-gradient(45deg, _palette(accent6-alt), _palette(accent3-alt) 50%, _palette(accent1-alt) 95%);
 		// background-position:	top left,						center center,					center center;
 		// background-size:		auto,							cover,							cover;
-        background-image: url('images/trail.jpeg');
+        background-image: url('images/river.jpeg');
         background-size: cover;
         background-position: bottom;
 		text-align: center;
