@@ -72,10 +72,20 @@ input, select, textarea {
 	appearance: none;
 }
 
+    #aa-container {
+        display: flex;
+        align-items: center;
+    }   
+
     #aa {
         height: 7vh;
         width: 15vw;
         margin-bottom: 5vh;
+    }
+
+    #du-container {
+        display: flex;
+        align-items: center;
     }
 
     #du {
