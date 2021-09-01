@@ -3159,7 +3159,7 @@ input, select, textarea {
 		text-align: center;
         background-image: url('images/trail.jpeg');
         background-size: cover;
-        /* background-position: center; */
+        background-position: bottom;
 	}
 
 		#footer a {
