@@ -137,6 +137,7 @@ input, select, textarea {
         width: 22vw;
         margin-bottom: 4vh;
         background-image: url("images/sprout.png");
+        background-position: center;
         background-size: cover;
     }
 
