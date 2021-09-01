@@ -1117,8 +1117,8 @@
 /* Header */
 
 	#header {
-		// @include padding(9em, 0, (0,0,_size(element-margin),0));
-		// @include dark(#4686a0);
+		@include padding(9em, 0, (0,0,_size(element-margin),0));
+		@include dark(#4686a0);
 		// background-attachment:	fixed,							fixed,							fixed;
 		// background-image:		url('images/overlay2.png'),		url('images/overlay3.svg'),		linear-gradient(45deg, _palette(accent1-alt) 5%, _palette(accent3-alt) 30%, _palette(accent6-alt));
 		// background-position:	top left,						center center,					center center;
@@ -1128,6 +1128,7 @@
 		overflow: hidden;
 		position: relative;
 		text-align: center;
+        height: 60vh;
 
 		h1 {
 			margin: 0;
