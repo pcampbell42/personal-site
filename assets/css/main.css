@@ -116,6 +116,10 @@ input, select, textarea {
         margin-top: 3vh;
     }
 
+    #icon-gh {
+        color: black;
+    }
+
 /* Basic */
 
 	html {
