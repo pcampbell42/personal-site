@@ -75,6 +75,7 @@ input, select, textarea {
     #aa-container {
         display: flex;
         align-items: center;
+        margin-top: 2vh;
         margin-bottom: 5vh;
     }   
 

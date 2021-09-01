@@ -98,12 +98,18 @@
     #aa-container {
         display: flex;
         align-items: center;
+        margin-top: 2vh;
         margin-bottom: 5vh;
     }
 
     #aa {
         height: 7vh;
         width: 15vw;
+    }
+
+    #aa-spacer {
+        height: 0;
+        width: 2vw;
     }
 
     #du-container {
