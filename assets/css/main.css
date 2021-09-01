@@ -110,6 +110,10 @@ input, select, textarea {
         justify-content: center;
         align-items: center;
     }
+    
+    #download-button {
+        margin-top: 5vh;
+    }
 
 /* Basic */
 
