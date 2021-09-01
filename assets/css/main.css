@@ -116,8 +116,19 @@ input, select, textarea {
         margin-top: 3vh;
     }
 
-    #icon-gh {
-        color: black;
+    #dbw {
+        height: 10vh;
+        width: 10vw;
+    }
+
+    #ta {
+        height: 10vh;
+        width: 10vw;
+    }
+
+    #sprout {
+        height: 10vh;
+        width: 10vw;
     }
 
 /* Basic */
