@@ -2923,6 +2923,8 @@ input, select, textarea {
         background-color: #cccccc;
         background-size: cover;
         background-image: url('images/trail.jpeg');
+        background-position: center;
+
 		overflow: hidden;
 		position: relative;
 		text-align: center;
