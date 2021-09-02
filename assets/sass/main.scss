@@ -168,6 +168,14 @@
         width: 100%;
     }
 
+    .me {
+        height: 40vh;
+        width: 25vw;
+        background-image: url("images/me.jpg");
+        background-size: cover;
+        background-position: center bottom -145px;
+    }
+
 /* Basic */
 
 	// Set box model to border-box.
