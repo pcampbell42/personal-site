@@ -150,7 +150,7 @@ input, select, textarea {
         width: 30vw;
         background-image: url("images/me.jpg");
         background-size: cover;
-        background-position: center bottom -10px;
+        background-position: center bottom -30px;
     }
 
 /* Basic */
