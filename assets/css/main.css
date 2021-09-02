@@ -161,6 +161,10 @@ input, select, textarea {
         list-style: none;
     }
 
+    #about-link {
+        width: 10vw;
+    }
+
 /* Basic */
 
 	html {
