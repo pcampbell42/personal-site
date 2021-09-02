@@ -145,6 +145,11 @@ input, select, textarea {
         width: 100%;
     }
 
+    #me-container {
+        display: flex;
+        
+    }
+
     .me {
         height: 40vh;
         width: 25vw;
@@ -154,7 +159,6 @@ input, select, textarea {
     }
 
     .links {
-        float: right;
         display: inline-block;
     }
 
