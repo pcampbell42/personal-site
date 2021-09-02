@@ -163,14 +163,18 @@ input, select, textarea {
     }
 
     .javascript {
-        /* height: 1em;
-        width: 1em; */
+        height: 5em;
+        width: 5em;
     }
 
     .react {
+        height: 5em;
+        width: 5em;
     }
 
     .redux {
+        height: 5em;
+        width: 5em;
     }
 
 /* Basic */
