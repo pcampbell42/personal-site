@@ -163,9 +163,6 @@ input, select, textarea {
     }
 
     .javascript {
-        background-image: url("images/icons/js.jpg");
-        background-size: cover;
-        background-position: center;
         width: 10vw;
     }
 
