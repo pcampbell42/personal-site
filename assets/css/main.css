@@ -162,17 +162,7 @@ input, select, textarea {
         list-style: none;
     }
 
-    .javascript {
-        height: 5em;
-        width: 5em;
-    }
-
-    .react {
-        height: 5em;
-        width: 5em;
-    }
-
-    .redux {
+    .skill-icon {
         height: 5em;
         width: 5em;
     }
