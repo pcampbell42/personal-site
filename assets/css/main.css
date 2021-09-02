@@ -158,7 +158,7 @@ input, select, textarea {
         list-style: none;
     }
 
-    #skills-row {
+    #skills-row > * {
         padding: 0;
     }
 
