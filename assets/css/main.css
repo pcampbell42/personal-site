@@ -147,10 +147,10 @@ input, select, textarea {
 
     .me {
         height: 40vh;
-        width: 30vw;
+        width: 25vw;
         background-image: url("images/me.jpg");
         background-size: cover;
-        background-position: center bottom -150px;
+        background-position: center bottom -165px;
     }
 
 /* Basic */
