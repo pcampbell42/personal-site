@@ -163,22 +163,14 @@ input, select, textarea {
     }
 
     .javascript {
-        /* width: 10vw;
-        height: 10vh; */
+        height: 1em;
+        width: 1em;
     }
 
     .react {
-        background-image: url("images/icons/react.jpg");
-        background-size: cover;
-        background-position: center;
-        width: 10vw;
     }
 
     .redux {
-        background-image: url("images/icons/redux.png");
-        background-size: cover;
-        background-position: center;
-        width: 10vw;
     }
 
 /* Basic */
