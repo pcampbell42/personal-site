@@ -142,10 +142,6 @@ input, select, textarea {
         background-size: cover;
     }
 
-    #skills {
-        width: 100%;
-    }
-
     #me-container {
         display: flex;
     }
@@ -160,6 +156,10 @@ input, select, textarea {
 
     .links {
         list-style: none;
+    }
+
+    #skills {
+        width: 140%;
     }
 
     .skill-icon {
