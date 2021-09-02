@@ -2369,7 +2369,7 @@ input, select, textarea {
 		border-bottom: none;
 		position: relative;
 
-        color: white;
+        /* color: white; */
 	}
 
     .icon:hover {
