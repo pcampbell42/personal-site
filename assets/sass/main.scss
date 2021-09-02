@@ -180,9 +180,14 @@
         list-style: none;
     }
 
-    #skills {
-        width: 140%;
+    #skills-row {
+        margin: 0;
     }
+
+    #skills {
+        width: 100%;
+    }
+
 
     .skill-icon {
         height: 5em;
