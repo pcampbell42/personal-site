@@ -147,7 +147,6 @@ input, select, textarea {
 
     #me-container {
         display: flex;
-        width: 42vw;
     }
 
     .me {
