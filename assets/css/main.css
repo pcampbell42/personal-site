@@ -158,6 +158,10 @@ input, select, textarea {
         list-style: none;
     }
 
+    #skills-row {
+        margin: 0;
+    }
+
     #skills {
         width: 100%;
     }
