@@ -121,7 +121,7 @@ input, select, textarea {
         /* width: 22vw; */
         margin-bottom: 4vh;
         background-image: url("images/discord_but_worse.png");
-        background-size: cover;   
+        background-size: auto;   
     }
 
     .ta-image {
