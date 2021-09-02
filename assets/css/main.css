@@ -147,7 +147,6 @@ input, select, textarea {
 
     #me-container {
         display: flex;
-        
     }
 
     .me {
@@ -159,7 +158,7 @@ input, select, textarea {
     }
 
     .links {
-        display: inline-block;
+        list-style: none;
     }
 
 /* Basic */
