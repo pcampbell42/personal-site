@@ -166,18 +166,21 @@ input, select, textarea {
         background-image: url("images/icons/js.jpg");
         background-size: cover;
         background-position: center;
+        width: 10vw;
     }
 
     .react {
         background-image: url("images/icons/react.jpg");
         background-size: cover;
         background-position: center;
+        width: 10vw;
     }
 
     .redux {
         background-image: url("images/icons/redux.png");
         background-size: cover;
         background-position: center;
+        width: 10vw;
     }
 
 /* Basic */
