@@ -163,8 +163,8 @@ input, select, textarea {
     }
 
     .javascript {
-        width: 10vw;
-        height: 10vh;
+        /* width: 10vw;
+        height: 10vh; */
     }
 
     .react {
