@@ -141,6 +141,18 @@ input, select, textarea {
         background-size: cover;
     }
 
+    #skills {
+        width: 100%;
+    }
+
+    .me {
+        height: 10vh;
+        width: 10vh;
+        background-image: url("images/me.jpg");
+        background-size: cover;
+        background-position: center;
+    }
+
 /* Basic */
 
 	html {
@@ -3095,7 +3107,7 @@ input, select, textarea {
 			-ms-justify-content: center;
 			justify-content: center;
 			/* margin-top: 2.5em; */
-            margin-top: -5vh;
+            margin-top: -3.5vh;
 			margin-left: 0;
 			position: relative;
 		}

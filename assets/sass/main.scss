@@ -164,6 +164,10 @@
         background-size: cover;
     }
 
+    #skills {
+        width: 100%;
+    }
+
 /* Basic */
 
 	// Set box model to border-box.
@@ -1214,7 +1218,7 @@
 		.actions {
 			@include vendor('justify-content', 'center');
 			// margin-top: (_size(element-margin) * 1.25);
-            margin-top: -5vh;
+            margin-top: -3.5vh;
 			margin-left: 0;
 			position: relative;
 
