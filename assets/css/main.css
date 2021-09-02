@@ -3013,7 +3013,8 @@ input, select, textarea {
 		overflow: hidden;
 		position: relative;
 		text-align: center;
-        height: 75vh;
+        /* height: 75vh; */
+        height: 300px;
 	}
 
 		#header a {
