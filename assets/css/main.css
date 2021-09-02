@@ -151,7 +151,7 @@ input, select, textarea {
 
     .me {
         height: 40vh;
-        width: 22vw;
+        width: 25vw;
         background-image: url("images/me.jpg");
         background-size: cover;
         background-position: center;
@@ -159,10 +159,6 @@ input, select, textarea {
 
     .links {
         list-style: none;
-    }
-
-    #about-link {
-        width: 10vw;
     }
 
 /* Basic */
