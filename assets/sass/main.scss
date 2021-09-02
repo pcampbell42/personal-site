@@ -165,10 +165,6 @@
         background-size: cover;
     }
 
-    #skills {
-        width: 100%;
-    }
-
     #me-container {
         display: flex;
     }
@@ -182,6 +178,15 @@
 
     .links {
         list-style: none;
+    }
+
+    #skills {
+        width: 140%;
+    }
+
+    .skill-icon {
+        height: 5em;
+        width: 5em;
     }
 
 /* Basic */
