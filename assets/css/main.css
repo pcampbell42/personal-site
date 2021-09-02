@@ -117,24 +117,24 @@ input, select, textarea {
     }
 
     .dbw-image {
-        height: 33vh;
-        /* width: 22vw; */
+        height: 0;
+        padding-bottom: 100%;
         margin-bottom: 4vh;
         background-image: url("images/discord_but_worse.png");
         background-size: contain;   
     }
 
     .ta-image {
-        height: 33vh;
-        /* width: 22vw; */
+        height: 0;
+        padding-bottom: 100%;
         margin-bottom: 4vh;
         background-image: url("images/the_arena.png");
         background-size: cover;
     }
 
     .sprout-image {
-        height: 33vh;
-        /* width: 22vw; */
+        height: 0;
+        padding-bottom: 100%;
         margin-bottom: 4vh;
         background-image: url("images/sprout.png");
         background-position: center;
