@@ -121,7 +121,7 @@ input, select, textarea {
         height: 0;
         padding-bottom: 50%;
         margin-bottom: 4vh;
-        background-image: url("images/discord_but_worse.png");
+        background-image: url("images/discord_but_worse.gif");
         background-size: cover;   
     }
 
@@ -129,7 +129,7 @@ input, select, textarea {
         height: 0;
         padding-bottom: 50%;
         margin-bottom: 4vh;
-        background-image: url("images/the_arena.png");
+        background-image: url("images/the_arena.gif");
         background-size: cover;
     }
 
@@ -137,7 +137,7 @@ input, select, textarea {
         height: 0;
         padding-bottom: 50%;
         margin-bottom: 4vh;
-        background-image: url("images/sprout.png");
+        background-image: url("images/sprout.gif");
         background-position: center;
         background-size: cover;
     }
